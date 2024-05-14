@@ -1,4 +1,4 @@
-# Trabalho DevOps Somativa 02
+# Trabalho DevOps
 
 ## Available Scripts
 
